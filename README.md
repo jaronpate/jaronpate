@@ -1,6 +1,7 @@
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<p align="center"><strong>Sorry, try again.</strong></p>
-<p align="center">I’d like to offer you moral support, but I have questionable morals.</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+When my daughter was about seven years old, she asked me one day what I did at work. I told her I worked at the college - that my job was to teach people how to draw. She stared back at me, incredulous, and said, 'You mean they forget?' ― (Howard Ikemoto)
+</blockquote>
 <p></p>
 </p>
