@@ -1,1 +1,6 @@
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jaronpate&&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=ffffff" alt="Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaronpate&layout=compact&hide_border=true&bg_color=ffffff">
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center"><strong>Sorry, try again.</strong></p>
+<p align="center">I’d like to offer you moral support, but I have questionable morals.</p>
+<p></p>
+</p>
